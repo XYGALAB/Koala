@@ -3,5 +3,6 @@ hai aku kucing
 hai aku koala
 hai aku gajah
 hai aku gajah dan koala
+hai aku gajah dan koala dan kucing
 hai aku anjing
 hai aku anjing dan kucing
